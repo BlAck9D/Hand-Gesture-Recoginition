@@ -15,29 +15,29 @@ their system using hand gestures captured via webcam.
 
 ### 🔐 Secure Web Application
 
--   User registration with OTP verification\
--   Secure login system\
--   Session management\
+-   User registration with OTP verification
+-   Secure login system
+-   Session management
 -   Feedback system
 
 ### 🖐️ Gesture Recognition
 
--   Real-time hand tracking using MediaPipe\
--   21 landmark detection\
+-   Real-time hand tracking using MediaPipe
+-   21 landmark detection
 -   Gesture classification
 
 ### ⚙️ Automation
 
--   Control system operations using gestures\
+-   Control system operations using gestures
 -   Open apps, control volume, switch tabs
 
 ------------------------------------------------------------------------
 
 ## 🛠️ Tech Stack
 
--   Python, Flask\
--   OpenCV, MediaPipe\
--   PyAutoGUI\
+-   Python, Flask
+-   OpenCV, MediaPipe
+-   PyAutoGUI
 -   SQLite
 
 ------------------------------------------------------------------------
@@ -55,23 +55,26 @@ python app.py
 
 ## 📂 Structure
 
-project/ │── app.py │── gesture_control.py │── database.py │──
-requirements.txt
+project 
+-- app.py 
+-- gesture_control.py 
+-- database.py 
+--requirements.txt
 
 ------------------------------------------------------------------------
 
 ## 🔐 Security
 
--   Password hashing\
--   OTP verification\
+-   Password hashing
+-   OTP verification
 -   Session handling
 
 ------------------------------------------------------------------------
 
 ## 🚀 Future Scope
 
--   AI gesture model\
--   Multi-hand support\
+-   AI gesture model
+-   Multi-hand support
 -   Cloud deployment
 
 ------------------------------------------------------------------------
